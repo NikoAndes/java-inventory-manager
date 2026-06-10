@@ -1,0 +1,11 @@
+id,name,category,price,quantity
+P001,Arduino Uno R3,Electronics,24.99,15
+P002,Breadboard 830 pts,Electronics,6.50,30
+P003,Jumper Wires Set,Electronics,3.99,4
+P004,ESP32 DevKit v1,Microcontrollers,12.99,10
+P005,DHT22 Sensor,Sensors,8.75,2
+P006,BMP280 Pressure Sensor,Sensors,5.49,8
+P007,OLED 0.96" Display,Displays,9.99,12
+P008,16x2 LCD Module,Displays,7.25,3
+P009,Servo Motor SG90,Actuators,4.50,20
+P010,L298N Motor Driver,Actuators,6.99,6
